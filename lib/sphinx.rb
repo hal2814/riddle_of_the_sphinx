@@ -8,7 +8,6 @@ class Sphinx
     @riddles
     @answers
     @randomIndex
-
   end
 
   def riddle_gen

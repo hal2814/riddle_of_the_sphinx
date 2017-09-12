@@ -12,7 +12,6 @@ get('/') do
   erb(:input)
 end
 
-# newRiddle.output_question
 get('/output') do
   @the_riddle = rid
   @answer = params.fetch("answer")
