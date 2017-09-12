@@ -49,7 +49,7 @@ class Sphinx
     ridddle12 = "A box without hinges, key, or lid, Yet golden treasure inside is hid."
     answer12 = "egg"
 
-    ridddle13 = "Tear one off and scratch my head what was red is black instead.What am I?"
+    ridddle13 = "Tear one off and scratch my head what was red is black instead. What am I?"
     answer13 = "match"
 
     @riddles = [ridddle1,ridddle2,ridddle3,ridddle4,ridddle5,ridddle6,ridddle7,ridddle8,ridddle9,ridddle10,ridddle11,ridddle12,ridddle13]

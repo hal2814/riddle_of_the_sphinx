@@ -1,0 +1,12 @@
+img {
+  width: 100%;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+label {
+  font-size: 40px;
+}
