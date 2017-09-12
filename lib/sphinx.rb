@@ -1,4 +1,7 @@
 class Sphinx
+  @@correct = 0
+  @@wrong = 0
+
   attr_accessor :riddles, :question, :answers, :randomIndex
   def initialize
     @question

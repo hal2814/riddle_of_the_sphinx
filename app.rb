@@ -5,7 +5,6 @@ require('./lib/sphinx')
 
 newRiddle = Sphinx.new()
 rid = newRiddle.riddle
-
 get('/') do
   newRiddle = Sphinx.new()
   rid = newRiddle.riddle

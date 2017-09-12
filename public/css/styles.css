@@ -10,3 +10,23 @@ body {
 label {
   font-size: 40px;
 }
+
+#dorado {
+  display: none;
+}
+
+#spike {
+  display: none;
+}
+
+#city {
+  display: none;
+}
+
+#city1 {
+  display: none;
+}
+
+#city2 {
+  display: none;
+}
